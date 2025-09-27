@@ -8,7 +8,7 @@ from typing import Dict
 
 app = Flask(__name__)
 
-CSV_PATH = r"C:\Users\fcrlu\Downloads/Clasificacion_plantas.csv"
+CSV_PATH = r"./Clasificacion_plantas.csv"
 
 # Mapeo nombre mostrado -> slug usado en assets/config
 PLANT_SLUGS = {
