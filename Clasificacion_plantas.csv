@@ -1,0 +1,13 @@
+Planta,Tiempo de cuidado,Espacio,Experiencia previa,Tamaño preferido,Luz disponible (valor),Mascotas,Presupuesto de cuidados,Objetivo principal,Clima de la zona,Disponibilidad de riego
+Cactus,Poco,Patio,Principiante,Pequeña,Directa,Si,Bajo,Fácil cuidado,Cálido/seco,Poco
+Calathea,Mucho,Interior,Experto,Mediana,Indirecta,No,Alto,Decoración,Húmedo,Medio
+Coleus,Medio,Ambos,Intermedio,Mediana,Indirecta,Si,Alto,Aroma,Templado,Poco
+Espatifilo,Medio,Interior,Intermedio,Mediana,Indirecta,Si,Medio,Purificación del aire,Templado,Medio
+Gardenia,Mucho,Ambos,Experto,Mediana,Indirecta,Si,Alto,Aroma,Cálido/seco,Medio
+Orquídea,Mucho,Interior,Avanzado,Mediana,Indirecta,No,Medio,Aroma,Templado,Poco
+Palma,Mucho,Ambos,Avanzado,Grande,Indirecta,No,Medio,Decoración,Templado,Medio
+Potos,Medio,Interior,Intermedio,Mediana,Indirecta,Si,Bajo,Purificación del aire,Templado,Poco
+Rosa,Mucho,Patio,Experto,Grande,Directa,No,Alto,Aroma,Cálido/seco,Mucho
+Sansevieria,Poco,Ambos,Principiante,Pequeña,Indirecta,Si,Bajo,Fácil cuidado,Templado,Poco
+Bonsái,Mucho,Ambos,Avanzado,Pequeña,Indirecta,Si,Medio,Decoración,Templado,Mucho
+Aloe Vera,Poco,Ambos,Principiante,Mediana,Directa,Si,Bajo,Fácil cuidado,Cálido/seco,Poco
